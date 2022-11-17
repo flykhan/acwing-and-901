@@ -1,4 +1,4 @@
-SourceFile := *.cpp
+SourceFile := 1.cpp
 
 Target := main
 
@@ -10,3 +10,6 @@ Target := main
 
 main:
 	rm -rf $(Target) && g++ $(SourceFile) -o $(Target) -std=c++11 && ./$(Target) && rm -rf $(Target)
+
+clearexe:
+	rm -rf *.exe
