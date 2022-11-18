@@ -2,7 +2,7 @@
 
 # AcWing
 
-### 1. [3375. 成绩排序 - AcWing题库](https://www.acwing.com/problem/content/3378/)
+## 1. [3375. 成绩排序 - AcWing题库](https://www.acwing.com/problem/content/3378/)
 
 给定学生的成绩单，成绩单中包含每个学生的姓名和分数，请按照要求将成绩单按成绩从高到低或从低到高的顺序进行重新排列。
 
@@ -68,7 +68,7 @@ peter 96
 
 
 
-### 2. [3376. 成绩排序2 - AcWing题库](https://www.acwing.com/problem/content/3379/)
+## 2. [3376. 成绩排序2 - AcWing题库](https://www.acwing.com/problem/content/3379/)
 
 给定学生的成绩单，成绩单中包含每个学生的学号和分数，请将成绩单按成绩从低到高的顺序重新排序。
 
